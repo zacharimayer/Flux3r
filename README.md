@@ -19,10 +19,10 @@ Run the script with the following command:
 
 The script will install all necessary dependencies, download and install the Fluxion tool, and start the Fluxion tool. (Ubuntu chroot)
 
-## 👥 Credits
+## 👥 Copyrights
 
-- Original script by MrBlackX/TheMasterCH
-- Modified by 0n1cOn3
+- Author: Zach Mayer
+- Licensing: MIT
 
 ## ⚠️ Disclaimer
 
